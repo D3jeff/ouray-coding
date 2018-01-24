@@ -1,0 +1,26 @@
+h3 {
+  color: green;
+}
+
+h4 {
+  color: purple;
+}
+
+
+.cat {
+  color: blue;
+}
+
+
+.bird {
+  color: red;
+  background-color: black;
+}
+
+.dog {
+  background-color: red;
+}
+
+.fish {
+  color: green;
+}
